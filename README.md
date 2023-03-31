@@ -3,7 +3,7 @@
 ## **THÀNH VIÊN**
 
 - Hoàng Ngọc Dung
-- Trần Đặng Minh Quâ
+- Trần Đặng Minh Quân
 - Nguyễn Quốc An 
 - Trần Phạm Bảo Long
 
