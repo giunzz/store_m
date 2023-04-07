@@ -1,12 +1,5 @@
 # QUẢN LÝ CỬA HÀNG LAPTOP
 
-## **THÀNH VIÊN**
-
-- Hoàng Ngọc Dung
-- Trần Đặng Minh Quân
-- Nguyễn Quốc An 
-- Trần Phạm Bảo Long
-
 ## **NỘI DUNG**
 
 - [A - BẢNG CHỌN - **NAVIGATION MENU**](#a---bảng-chọn---navigation-menu)
